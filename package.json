@@ -1,0 +1,11 @@
+{
+  "name": "balanced",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "jsonfile": "^3.0.1"
+  }
+}
